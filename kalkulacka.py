@@ -148,13 +148,3 @@ while True:
                 break    
 
     print("\nAk chceš zadať nové čísla, pokračuj. Alebo napíš 'stop' pre ukončenie.\n")
-
-    # navrh od chatu
-
-    🔚 Záver:
-✅ Tvoj kód je funkčný, čitateľný, dobre ošetrený, a už obsahuje aj čísla s desatinnou čiarkou.
-Ak by si chcel ďalší krok – napríklad pridať možnosť opýtať sa, či chce použiť výsledok ako nové prvé číslo, alebo pridať percentá, odmocninu, mocninu – môžeme spolu vytvoriť „pokročilejšiu kalkulačku“.
-
-🔁 Alebo si môžeš skúsiť uložiť celý výpočet do zoznamu a zobraziť históriu. To by bol ďalší skvelý krok v učení sa s list, append, a cyklami.
-
-Rád ťa navediem, keď budeš pripravený 🙂
